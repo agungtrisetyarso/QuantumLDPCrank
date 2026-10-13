@@ -1,0 +1,22 @@
+{
+ "python": "3.13.16",
+ "implementation": "CPython",
+ "platform": "Linux-6.18.44-fc-v114-x86_64-with-glibc2.39",
+ "machine": "x86_64",
+ "numpy": "2.5.3",
+ "scipy": "1.18.1",
+ "mpmath": "1.4.1",
+ "matplotlib": "3.11.2",
+ "sha256": {
+  "nogain.py": "5bf5e4631b5f1c42aa940ab5a320c0745a66040f8829e63867fe571548c522e1",
+  "codes.py": "03bf8fd3835acdff284c78cd04a0a9fa9bf98828193988590b2a0465f6328989",
+  "reproduce.py": "9b65a155f4cb14763e8261723225f68fecc38417fe95155a30bd1a73ffc59309",
+  "make_figures.py": "90f708e8f0bbd194c508c792391b949d88097e08cced381fcb514e91cd29adbd",
+  "certify.py": "1be68f86daf562a4d6315f202c7f58ccd1f2eaae8d6e4b6ae9402c711794d884",
+  "crosscheck_symplectic.py": "d6bbe100eddb63d7e8f13f3f014e16bcb91b1b6e5ca2dad93173f37e5bea8c6c",
+  "validate.py": "9fc7d450da1e2c1722fb9f210081893d5a18c9330bb6ac2c1efe5c1c592ea429",
+  "dm_check.py": "aab979eb38f63abf29db0e565e73f8a36b87cadac831a5ce5e9184194b31e951",
+  "env_info.py": "84cb14ef4898e21628c69b052a63e10041e26f5e4f858ba39262a616b617f533",
+  "run_all.sh": "bc3abb773043a7253fefefaad7ef9626227d5c5960e7314bef4c18a8ddfee848"
+ }
+}
